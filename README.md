@@ -8,6 +8,8 @@ Postman
 
 Postgresql
 
+PgAdmin
+
 Heroku CLI
 
 NPM
