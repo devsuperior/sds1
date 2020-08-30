@@ -1,10 +1,25 @@
 # SDS1: Instalação das ferramentas no Windows
 
-## Importante
+## ATENÇÃO:
 
-É muito importante que todos instalem as mesmas versões para evitar imprevistos durante a construção do projeto, e possibilitar que suas dúvidas sejam respondidas.
+**É MUITO IMPORTANTE que todos instalem as mesmas versões para evitar imprevistos durante a construção do projeto, e possibilitar que suas dúvidas sejam respondidas.**
 
-## Instalando o Java JDK 11
+## Ferramentas que você deverá instalar no seu computador:
+
+- JDK 11
+- STS
+- Postman
+- Postgresql e pgAdmin
+- Heroku CLI
+- NPM
+- VS Code
+- Git
+
+## Playlist mostrando a instalação
+
+(aguarde)
+
+## Notas sobre a instalação do Java JDK 11
 
 A versão atual LTS (Long Term Support) do Java é a 11. É esta versão que todos devem instalar!
 
@@ -21,32 +36,3 @@ Passos:
 4) Criar uma variável de ambiente JAVA_HOME com o caminho do seu JDK
 
 5) Acrescentar o caminho do JDK na variável Path do sistema
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-JDK 11
-
-STS
-
-Postman
-
-Postgresql
-
-Heroku CLI
-
-NPM
-
-VS Code
