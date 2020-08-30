@@ -1,15 +1,21 @@
-# sds1
+# Semana DevSuperior 1.0 - Conteúdos de apoio
 
-JDK 11
+Bem-vindos à primeira edição da SDS!
 
-STS
+Aqui você vai encontrar os materiais de apoio para instalar as ferramentas necessárias, bem como conteúdos que vamos precisar durante o desenvolvimento de nossa aplicação.
 
-Postman
+## Guias de instalação das ferramentas
 
-Postgresql
+[Guia de instalação das ferramentas no Windows](https://github.com/devsuperior/sds1/tree/master/ferramentas/windows)
 
-Heroku CLI
+[Guia de instalação das ferramentas no Linux](https://github.com/devsuperior/sds1/tree/master/ferramentas/linux)
 
-NPM
+[Guia de instalação das ferramentas no Max](https://github.com/devsuperior/sds1/tree/master/ferramentas/mac)
 
-VS Code
+## Conteúdos de apoio das videoaulas
+
+[Conteúdos para videoaula 1](https://github.com/devsuperior/sds1/tree/master/videoaula1)
+
+[Conteúdos para videoaula 2](https://github.com/devsuperior/sds1/tree/master/videoaula2)
+
+[Conteúdos para videoaula 3](https://github.com/devsuperior/sds1/tree/master/videoaula3)
