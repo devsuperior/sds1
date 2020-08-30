@@ -99,7 +99,7 @@ spring.jpa.properties.hibernate.format_sql=false
 ## Teste local para CORS
 
 ```js
-fetch("https://dspesquisapoc.herokuapp.com/records", {
+fetch("https://dspesquisa.herokuapp.com/records", {
   "headers": {
     "accept": "*/*",
     "accept-language": "en-US,en;q=0.9,pt-BR;q=0.8,pt;q=0.7",
