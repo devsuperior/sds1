@@ -15,7 +15,7 @@
 - VS Code
 - Git
 
-## Playlist mostrando a instalação
+## Playlist do Youtube mostrando a instalação
 
 (aguarde)
 

@@ -1,15 +1,17 @@
-# sds1
+# SDS1: Instalação das ferramentas no Windows
 
-JDK 11
+## ATENÇÃO:
 
-STS
+**É MUITO IMPORTANTE que todos instalem as mesmas versões para evitar imprevistos durante a construção do projeto, e possibilitar que suas dúvidas sejam respondidas.**
 
-Postman
+## Ferramentas que você deverá instalar no seu computador:
 
-Postgresql
+- JDK 11
+- STS
+- Postman
+- Postgresql e pgAdmin
+- Heroku CLI
+- NPM
+- VS Code
+- Git
 
-Heroku CLI
-
-NPM
-
-VS Code
