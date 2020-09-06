@@ -1,15 +1,12 @@
-# sds1
+# Videoaula 2 - Conteúdos para copiar
 
-JDK 11
+## Telas do sistema
 
-STS
+https://www.figma.com/file/AE96dXBqHTLIWI0wU340Px/DSPesquisa?node-id=0%3A1
 
-Postman
 
-Postgresql
+## Criando projeto com `create-react-app`:
 
-Heroku CLI
-
-NPM
-
-VS Code
+```bash
+npx create-react-app front --template typescript
+```

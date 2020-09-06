@@ -1,0 +1,72 @@
+.chart-container {
+  display: flex;
+}
+
+.top-related {
+  background-color: var(--color-dimgray);
+  padding-top: 30px;
+  padding-left: 70px;
+  border-radius: 10px;
+  flex: 1;
+}
+
+.top-related-title {
+  font-size: 36px;
+  color: #FFF;
+}
+
+.games-container {
+  display: flex;
+  justify-content: center;
+}
+
+.games-list {
+  width: 100%;
+}
+
+.game-result {
+  display: flex;
+  align-items: center;
+}
+
+.game-title {
+  font-size: 24px;
+  color: var(--color-turquoise);
+  margin-right: 40px;
+  width: 400px;
+  text-align: right;
+}
+
+.game-rating {
+  height: 20px;
+  width: 300px;
+  background-color: var(--color-coral);
+  border-radius: 10px;
+}
+
+.charts {
+  color: #FFF;
+  width: 400px;
+  margin-left: 30px;
+}
+
+.chart-title {
+  font-size: 28px;
+}
+
+.platform-chart {
+  padding-top: 15px;
+  padding-left: 25px;
+  height: 373px;
+  margin-bottom: 25px;
+  background-color: var(--color-dimgray);
+  border-radius: 10px;
+}
+
+.gender-chart {
+  padding-top: 15px;
+  padding-left: 25px;
+  height: 373px;
+  background-color: var(--color-dimgray);
+  border-radius: 10px;
+}
