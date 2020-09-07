@@ -28,4 +28,6 @@ expo start
 
 ## Instalando dependências do projeto:
 
-```bash expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view @expo-google-fonts/play expo-font @react-navigation/stack @react-navigation/native axios react-native-picker-select@7.0.0 ```
+```bash 
+expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view @expo-google-fonts/play expo-font @react-navigation/stack @react-navigation/native axios react-native-picker-select@7.0.0
+```
