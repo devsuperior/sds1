@@ -1,15 +1,33 @@
-# sds1
+# Videoaula 3 - Conteúdos para copiar
 
-JDK 11
+## Telas do sistema
 
-STS
+https://www.figma.com/file/AE96dXBqHTLIWI0wU340Px/DSPesquisa?node-id=0%3A1
 
-Postman
+## Documentação `Expo`:
+https://expo.io/learn
 
-Postgresql
+## Instalando `Expo`:
 
-Heroku CLI
+```bash
+npm install expo-cli --global
+```
+Ou 
 
-NPM
+```bash
+yarn global add expo-cli
+```
 
-VS Code
+## Criando projeto com `Expo`:
+
+```bash
+expo init front-mobile
+cd front-mobile
+expo start
+```
+
+## Instalando dependências do projeto:
+
+```bash
+expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view @expo-google-fonts/play expo-font @react-navigation/stack @react-navigation/native axios react-native-picker-select@7.0.0
+```
