@@ -10,7 +10,7 @@ Aqui você vai encontrar os materiais de apoio para instalar as ferramentas nece
 
 [Guia de instalação das ferramentas no Linux](https://github.com/devsuperior/sds1/tree/master/ferramentas/linux)
 
-[Guia de instalação das ferramentas no Max](https://github.com/devsuperior/sds1/tree/master/ferramentas/mac)
+[Guia de instalação das ferramentas no Mac](https://github.com/devsuperior/sds1/tree/master/ferramentas/mac)
 
 ## Conteúdos de apoio das videoaulas
 
