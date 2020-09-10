@@ -91,7 +91,10 @@ mvn -v
 - Descompactar (exemplo: /home/user/apps)
 - Iniciar STS
   - Selecione um workspace (exemplo: /home/user/Workspaces/ws-sts)
-- Liberar permissão na pasta do workspace: sudo chmod -R ugo+rw /home/user/Workspaces/ws-sts
+- Liberar permissão na pasta do workspace: 
+```
+sudo chmod -R ugo+rw /home/user/Workspaces/ws-sts
+```
 
 ## Postman
 
