@@ -19,24 +19,53 @@
 
 ## Curl
 
-- Instalar o curl: sudo apt-get install -y curl
-- Conferir a instalação: curl
+- Instalar o curl
+```
+sudo apt-get install -y curl
+```
+- Conferir a instalação: 
+```
+curl
+```
 
 ## Git
 
-- Instalar: sudo apt-get install -y git
-- Conferir a instalação: git
+- Instalar: 
+```
+sudo apt-get install -y git
+```
+
+- Conferir a instalação: 
+```
+git
+```
 
 ## Java JDK 11
 
-- Instalar Java: sudo apt install openjdk-11-jdk
-- Verificar a instalação: java -version
+- Instalar Java: 
+```
+sudo apt install openjdk-11-jdk
+```
+
+- Verificar a instalação: 
+```
+java -version
+```
 - Configurar JAVA_HOME:
-  - Verificar caminho Java: sudo update-alternatives --config java
+  - Verificar caminho Java: 
+  ```
+  sudo update-alternatives --config java
+  ```
   - Copie o caminho do Java
-  - Edite o arquivo .bashrc: sudo gedit ~/.bashrc
+  - Edite o arquivo .bashrc: 
+  ```
+  sudo gedit ~/.bashrc
+  ```
   - Copie o código abaixo no final do arquivo. Salve o arquivo.
-  - Abra um novo terminal e teste: echo $JAVA_HOME
+  - Abra um novo terminal e teste: 
+  ```
+  echo $JAVA_HOME
+  ```
 
 ```
 JAVA_HOME=/usr/...
@@ -46,8 +75,14 @@ export PATH=$PATH:$JAVA_HOME
 
 ## Maven
 
-- Instalar Java: sudo apt-get install maven
-- Verificar a instalação: mvn -v
+- Instalar Maven: 
+```
+sudo apt-get install maven
+```
+- Verificar a instalação: 
+```
+mvn -v
+```
 
 ## STS
 
@@ -60,4 +95,7 @@ export PATH=$PATH:$JAVA_HOME
 
 ## Postman
 
-- Instalar com snap: snap install postman
+- Instalar com snap: 
+```
+snap install postman
+```
