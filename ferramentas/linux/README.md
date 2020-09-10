@@ -1,8 +1,8 @@
-# SDS1: Instalação das ferramentas no Linux (Debian)
+# SDS1: Instalação das ferramentas no Linux (Ubuntu/Debian)
 
 ## ATENÇÃO:
 
-**É MUITO IMPORTANTE que todos instalem as mesmas versões para evitar imprevistos durante a construção do projeto, e possibilitar que suas dúvidas sejam respondidas.**
+**É MUITO IMPORTANTE que todos instalem as mesmas versões para evitar imprevistos durante a construção do projeto, e aumentar as chances de que suas dúvidas sejam respondidas.**
 
 ## Ferramentas que você deverá instalar no seu computador:
 
