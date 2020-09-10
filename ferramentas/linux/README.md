@@ -38,9 +38,11 @@
   - Copie o código abaixo no final do arquivo. Salve o arquivo.
   - Abra um novo terminal e teste: echo $JAVA_HOME
 
+```
 JAVA_HOME=/usr/...
 export JAVA_HOME
 export PATH=$PATH:$JAVA_HOME
+```
 
 ## Maven
 
