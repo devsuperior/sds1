@@ -102,3 +102,34 @@ sudo chmod -R ugo+rw /home/user/Workspaces/ws-sts
 ```
 snap install postman
 ```
+
+## Postgresql
+
+```
+https://www.postgresql.org/download/linux/ubuntu/
+```
+
+## pgAdmin
+
+```
+https://www.pgadmin.org/download/pgadmin-4-apt/
+```
+
+## Heroku CLI
+
+```
+https://devcenter.heroku.com/articles/heroku-cli
+```
+
+## NPM
+
+```
+curl -sL https://deb.nodesource.com/setup_lts.x | bash - apt-get install -y nodejs
+```
+
+## VS Code
+
+```
+https://code.visualstudio.com/download
+```
+
