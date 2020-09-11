@@ -135,5 +135,7 @@ sudo apt-get install nodejs
 
 ```
 https://code.visualstudio.com/download
+
+sudo snap install code --classic
 ```
 
