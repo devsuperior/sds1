@@ -14,7 +14,7 @@
 - Postman
 - Postgresql e pgAdmin
 - Heroku CLI
-- NPM
+- Node & NPM
 - VS Code
 
 ## Curl
@@ -121,10 +121,14 @@ https://www.pgadmin.org/download/pgadmin-4-apt/
 https://devcenter.heroku.com/articles/heroku-cli
 ```
 
-## NPM
+## Node & NPM
 
 ```
-curl -sL https://deb.nodesource.com/setup_lts.x | sudo -E bash - sudo apt-get install -y nodejs
+sudo apt update
+
+curl -sL https://deb.nodesource.com/setup_lts.x | sudo -E bash -
+
+sudo apt-get install nodejs
 ```
 
 ## VS Code
