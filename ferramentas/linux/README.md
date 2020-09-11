@@ -17,6 +17,10 @@
 - Node & NPM
 - VS Code
 
+## Playlist mostrando a instalação:
+
+https://www.youtube.com/playlist?list=PLNuUvBZGBA8mcAF-YX7RJhA26TBLdG5yk
+
 ## Curl
 
 - Instalar o curl
