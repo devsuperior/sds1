@@ -15,4 +15,4 @@
 - VS Code
 - Git
 
-## Aviso: devido a um imprevisto médico, a descrição da instalação para Mac pode não ficar pronta antes do início da SDS 1.0. Mas os procedimentos de instalação podem ser encontrados na web. Se alguém puder fazer os passos e enviar um pull request aqui para o repositório, fiquem à vontade. Toda ajuda é bem-vinda :)
+## Aviso: devido a um imprevisto médico, a descrição da instalação para Mac pode não ficar pronta antes do início da SDS 1.0. Mas os procedimentos de instalação podem ser encontrados na web. Se alguém puder fazer os passos e enviar um pull request aqui neste README, fiquem à vontade. Toda ajuda é bem-vinda :)
