@@ -4,6 +4,12 @@ Bem-vindos à primeira edição da SDS!
 
 Aqui você vai encontrar os materiais de apoio para instalar as ferramentas necessárias, bem como conteúdos que vamos precisar durante o desenvolvimento de nossa aplicação.
 
+## Workbook do evento
+
+Baixe agora o workbook do evento. Aqui tem todas informações sobre como vai funcionar o evento, links, materiais extras, passo a passo:
+
+https://drive.google.com/file/d/1rnf8sAegeR7OXfaloqVReQxPnS52uL_l
+
 ## Guias de instalação das ferramentas
 
 [Guia de instalação das ferramentas no Windows](https://github.com/devsuperior/sds1/tree/master/ferramentas/windows)
