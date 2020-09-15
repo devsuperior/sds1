@@ -91,6 +91,11 @@ $ heroku autocomplete
 $ brew install node
 ```
 
+## YARN
+```
+$ brew install yarn
+```
+
 ## VS Code
 
 1. Download Visual Studio Code for macOS. https://go.microsoft.com/fwlink/?LinkID=534106
