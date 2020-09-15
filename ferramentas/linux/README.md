@@ -135,7 +135,7 @@ curl -sL https://deb.nodesource.com/setup_lts.x | sudo -E bash -
 sudo apt-get install nodejs
 ```
 
-## YARN
+## YARN (Caso queira usar o YARN ao invés do NPM)
 No Debian e no Ubuntu:
 ```
  curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
