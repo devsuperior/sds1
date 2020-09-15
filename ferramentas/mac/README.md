@@ -91,7 +91,8 @@ $ heroku autocomplete
 $ brew install node
 ```
 
-## YARN
+## YARN (Caso queira usar o YARN ao invés do NPM)
+
 ```
 $ brew install yarn
 ```
