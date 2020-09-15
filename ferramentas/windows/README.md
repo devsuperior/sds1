@@ -21,4 +21,4 @@ https://www.youtube.com/playlist?list=PLNuUvBZGBA8kMTSPMmmNiRm2z0gRxXxox
 
 
 ## YARN
-Basta acessar a própria documentação e baixar o instalador: https://classic.yarnpkg.com/pt-BR/docs/install/#windows-stable
+Caso queira usar o Yarn ao invés do NPM, basta acessar a própria documentação e baixar o instalador: https://classic.yarnpkg.com/pt-BR/docs/install/#windows-stable
