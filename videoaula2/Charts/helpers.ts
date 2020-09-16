@@ -43,7 +43,7 @@ export const getGenderChartData = (records: RecordItem[]) => {
      if (accumulator[currentValue.genreName] !== undefined) {
        accumulator[currentValue.genreName] += 1;
      } else {
-      accumulator[currentValue.genreName] = 0;
+      accumulator[currentValue.genreName] = 1;
      }
 
      return accumulator;
