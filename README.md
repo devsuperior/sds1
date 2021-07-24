@@ -40,8 +40,15 @@ Este vídeo é necessário para entender:
 
 ### High order functions JavaScript e TypeScript
 
-Este vídeo te ajudará entender as funções de ordem superior: map, filter, reduce, sort
+Estes vídeos são necessários para entender:
+- Funções de alta ordem: map, filter, reduce, sort
+- Como essas funções foram aplicadas para transformar os dados a API nos dados necessários para plotar os gráficos
 
+#### Parte 1:
 [![Image](https://img.youtube.com/vi/ZYPQmfcZGxg/mqdefault.jpg "Vídeo no Youtube")](https://youtu.be/ZYPQmfcZGxg)
+
+#### Parte 2:
+[![Image](https://img.youtube.com/vi/IL9UfTcCXL4/mqdefault.jpg "Vídeo no Youtube")](https://youtu.be/IL9UfTcCXL4)
+
 
 
