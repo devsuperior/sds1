@@ -2,7 +2,7 @@
 
 ## Telas do sistema
 
-https://www.figma.com/file/AE96dXBqHTLIWI0wU340Px/sds1-semana-devsuperior
+https://www.figma.com/file/aQlvot6DtOdcADbfF5sTOm/SDS1-DevSuperior
 
 
 ## Criando projeto com `create-react-app`:
